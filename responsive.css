@@ -63,17 +63,17 @@
 
     .header {
         width: 95%;
-        background-color: red;
+        background-color: gold;
     }
 
     .about__block {
         width: 64%;
-        background-color: red;
+        background-color: gold;
     }
 
     .footer {
         width: 95%;
-        background-color: red;
+        background-color: gold;
     }
 }
 
@@ -84,16 +84,16 @@
 
     .header {
         width: 95%;
-        background-color: red;
+        background-color: gold;
     }
 
     .about__block {
         width: 83%;
-        background-color: red;
+        background-color: gold;
     }
 
     .footer {
         width: 95%;
-        background-color: red;
+        background-color: gold;
     }
 }
