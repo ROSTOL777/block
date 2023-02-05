@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.header,
+.about__block,
+.footer {
+    display: inline-block;
+}
+
+.header {
+    width: 1200px;
+    height: 200px;
+    background-color: brown;
+}
+
+.about__block {
+    height: 200px;
+    width: 290px;
+    background-color: brown;
+}
+
+.footer {
+    width: 1200px;
+    height: 200px;
+    background-color: brown;
+}
